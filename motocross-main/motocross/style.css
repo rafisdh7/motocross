@@ -1,0 +1,18 @@
+body {
+    background-color: darkgray;
+}
+
+img {
+    margin-left: 30%;
+    box-shadow: 0 0 5px black;
+}
+h1 {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 40px;
+}
